@@ -1,0 +1,26 @@
+{
+  "name": "react-browserify-demo",
+  "version": "1.0.0",
+  "description": "Trying out writing React code with Browserify.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jesseskinner/react-browserify-demo.git"
+  },
+  "author": "Jesse Skinner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jesseskinner/react-browserify-demo/issues"
+  },
+  "homepage": "https://github.com/jesseskinner/react-browserify-demo",
+  "devDependencies": {
+    "browserify": "^8.0.2",
+    "reactify": "^0.17.1"
+  },
+  "dependencies": {
+    "react": "^0.12.2"
+  }
+}
